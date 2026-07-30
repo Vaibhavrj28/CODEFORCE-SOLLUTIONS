@@ -6,18 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -25,6 +27,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 
@@ -44,8 +47,15 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 
 ### math
 
@@ -58,6 +68,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 
 ---
 
