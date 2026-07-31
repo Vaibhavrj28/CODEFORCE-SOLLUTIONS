@@ -6,11 +6,11 @@ int main(){
     while(t--){
         int n,k;
         cin>>n>>k;
-        vector<int> a(n);
+        int a[n];
         for(int i=0;i<n;i++){
             cin>>a[i];
         }
-        sort(a.begin(),a.end());
+        sort(a,a+n);
         int c=1;
         int ans=0;
         vector<int> b;
