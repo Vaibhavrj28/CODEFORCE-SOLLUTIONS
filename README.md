@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 8 |
+| 5 | 8 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 
 ---
 
@@ -55,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 
 ### math
@@ -73,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 
 ---
