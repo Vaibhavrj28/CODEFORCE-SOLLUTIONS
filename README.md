@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 9 |
+| 9 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -23,6 +24,12 @@
 - [sortings](#sortings) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### brute force
 
