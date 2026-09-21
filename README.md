@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 12 |
+| 24 | 13 |
 
 ---
 
@@ -17,6 +17,7 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (6)
 - [math](#math) (9)
@@ -64,6 +65,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### greedy
 
