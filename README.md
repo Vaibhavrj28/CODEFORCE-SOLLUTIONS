@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 12 |
+| 22 | 12 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (5)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -101,6 +101,7 @@
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
@@ -119,6 +120,7 @@
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Vaibhavrj28/CODEFORCE-SOLLUTIONS/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
